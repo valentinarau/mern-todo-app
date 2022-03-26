@@ -6,12 +6,12 @@ POST http://localhost:3001/tasks/new
 Content-Type: application/json
 
 {
-  "description": "Task 2 description"
+  "description": "Task 3 description"
 }
 
 ###
 
-DELETE http://localhost:3001/tasks/delete/623e92b4dabbfe8d5e235bc5
+DELETE http://localhost:3001/tasks/delete/623e93a23fb42c9903c4512d
 
 ###
 
